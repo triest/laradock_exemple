@@ -12,3 +12,6 @@ DB_DATABASE=default
 DB_USERNAME=default
 DB_PASSWORD=secret
 
+
+Запуск
+docker-compose up -d nginx mysql  phpmyadmin

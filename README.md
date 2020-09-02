@@ -14,4 +14,4 @@ DB_PASSWORD=secret
 
 
 Запуск
-docker-compose up -d nginx mysql  phpmyadmin
+docker-compose up -d nginx mysql phpmyadmin workspace
